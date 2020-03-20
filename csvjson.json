@@ -1,0 +1,728 @@
+[
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 18052
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 5444
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 689756
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 588413
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 19259
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 34493
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 31635
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 358911
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 107474
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 131695
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 176366
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 219992
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 2065070
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 10097570
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 374405
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "All",
+    "Rx.Cost": 436014
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 197628
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 26143516
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 867619
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 1087610
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 1088364
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 10216237
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 844562
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 863822
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 1461875
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "99_UNKNOWN",
+    "Rx.Cost": 2175975
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "All",
+    "Rx.Cost": 84861489
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 20972823
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "All",
+    "Rx.Cost": 10697744
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 23179859
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 1606102
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 2750943
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 21681806
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "All",
+    "Rx.Cost": 219472349
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 137559321
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 16630194
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 139953007
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 1982348
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 26847634
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "All",
+    "Rx.Cost": 36719856
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "All",
+    "Rx.Cost": 11825275
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "All",
+    "Rx.Cost": 2659789
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "All",
+    "Rx.Cost": 82029515
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "NDFP",
+    "Age.Group": "All",
+    "Rx.Cost": 315031583
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "All",
+    "Rx.Cost": 5446086
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 4949681
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "All",
+    "Rx.Cost": 66401675
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "All",
+    "Rx.Cost": 270783093
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 14887536
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SP",
+    "Age.Group": "All",
+    "Rx.Cost": 8541890
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 27404275
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 43918315
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 13358146
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 84539294
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 139477794
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 21116366
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 44244557
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "All",
+    "Rx.Cost": 471752176
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 58805851
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 164227592
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "0_0-18",
+    "Rx.Cost": 85653485
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 57602702
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "All",
+    "Rx.Cost": 98469468
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 44349618
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "1_19-24",
+    "Rx.Cost": 80782561
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 47108791
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "All",
+    "Rx.Cost": 172993127
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 25744573
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "All",
+    "Rx.Cost": 73001201
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 113522500
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 903227748
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "All",
+    "Rx.Cost": 46003644
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "All",
+    "Rx.Cost": 294510968
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 331232808
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 91743736
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "All",
+    "Rx.Cost": 135550206
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "CA",
+    "Age.Group": "All",
+    "Rx.Cost": 253500185
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 374646921
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 1234460556
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 102379080
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "TR",
+    "Age.Group": "All",
+    "Rx.Cost": 579326426
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "All",
+    "Rx.Cost": 172417231
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 489885913
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "All",
+    "Rx.Cost": 142635192
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 161259694
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 315193827
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "GE",
+    "Age.Group": "All",
+    "Rx.Cost": 225358691
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "All",
+    "Rx.Cost": 151130175
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 136911951
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "All",
+    "Rx.Cost": 662146777
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 438637582
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 417572908
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "All",
+    "Rx.Cost": 361210064
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "All",
+    "Rx.Cost": 458523962
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "2_25-44",
+    "Rx.Cost": 581800500
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 168699146
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "All",
+    "Rx.Cost": 419381950
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 464441689
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "All",
+    "Rx.Cost": 170238442
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 504538141
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LS",
+    "Age.Group": "All",
+    "Rx.Cost": 600028970
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 722998382
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 562017142
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 814746407
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "LT",
+    "Age.Group": "All",
+    "Rx.Cost": 333193893
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "3_45-64",
+    "Rx.Cost": 1304632320
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 1262602863
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "FA",
+    "Age.Group": "All",
+    "Rx.Cost": 1172416881
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 815724896
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "5_85+",
+    "Rx.Cost": 816588718
+  },
+  {
+    "Ministry": "MCSS",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 1397788091
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 1767141005
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 2442895418
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "All",
+    "Rx.Cost": 1773818018
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "SN",
+    "Age.Group": "All",
+    "Rx.Cost": 2907716970
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 3161354073
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "4_65-84",
+    "Rx.Cost": 3208462865
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 2516477721
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 3078494863
+  },
+  {
+    "Ministry": "MOH",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 4682308333
+  },
+  {
+    "Ministry": "All",
+    "Program/Class.of.Eligibility": "All",
+    "Age.Group": "All",
+    "Rx.Cost": 6080096424
+  }
+]
